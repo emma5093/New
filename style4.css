@@ -1,0 +1,27 @@
+body{
+	background: #edeff0;
+	font-family: Helvetica;
+	font-size: 16px;
+}
+div{
+	
+	margin: 100px 100px 100px 100px;
+	padding: 5px 5px 5px 5px;
+}
+.row{
+	background: white;
+	margin: 100px 100px 100px 100px;
+}
+.new{
+	width: 80%;
+
+}
+.new2{
+	width: 35%;
+	display: inline-block;
+}
+.new3{
+	width: 35%;
+	display: inline-block;
+}
+}

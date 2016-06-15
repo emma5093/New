@@ -1,0 +1,22 @@
+body{
+	font-family: Helvetica;	font-size:16px; font-color: #333;
+	font:1.6%; ;
+	background:url();  
+	background-repeat: no-repeat; 
+}
+table{
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+	background: url(http://vipsalud.com/wp-content/uploads/2016/02/fondo-gris.png);
+}
+.new{
+	margin: 30px 5px 5px 5px;
+display: inline-block;
+}
+
+div{
+	margin: 30px 5px 5px 5px;
+	width: 18%;
+	height: 150%;
+	
+}
